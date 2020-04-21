@@ -1,0 +1,15 @@
+{
+  "name": "grammit-junior",
+  "version": "1.0.0",
+  "description": "Programming app, that helps little kids gain IT literacy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "edutech",
+    "kids"
+  ],
+  "author": "Linette Manuel",
+  "license": "ISC"
+}
