@@ -1,0 +1,22 @@
+.arrow-container {
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+    height: 90px;
+    .arrow-area {
+        position: relative;
+        width: 100%;
+        display: inline-flex;
+        .arrow {
+            position: absolute;
+            &.left-area {
+                left: 0;
+                margin-left: 25px;
+            }
+            &.right-area {
+                right: 0;
+                margin-right: 25px;
+            }
+        }
+    }
+}

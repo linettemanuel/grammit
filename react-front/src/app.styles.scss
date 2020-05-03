@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', 'Arial', sans-serif;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 6px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #54718A;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+h1, .h1 {
+  font-size: 60px;
+}
+
+h2, .h2 {
+  font-size: 3rem;
+}
+
+h3, .h3 {
+  font-size: 2.5rem;
+}
+
+h4, .h4 {
+  font-size: 2rem;
+}
+
+h5, .h5 {
+  font-size: 1.5rem;
+}
+
+h6, .h6 {
+  font-size: 1.2rem;
+}
+
+p, .p {
+  font-size: 16px;
+}
+
